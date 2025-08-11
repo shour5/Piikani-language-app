@@ -126,22 +126,7 @@ Text(
 context.colorTheme.secondary
 context.colorTheme.primary
 
-📁 Folder Layout
 
-lib/
-├── core/           # Core utilities & routing
-│   ├── routes/
-│   ├── themes/
-│   └── utils/
-├── data/           # Data layer
-│   ├── models/
-│   ├── repositories/
-│   └── datasources/
-├── presentation/   # UI & presentation logic
-│   ├── pages/
-│   ├── widgets/
-│   └── cubits/
-└── utils/          # Shared helpers
 
 📌 Flutter Environment
 
