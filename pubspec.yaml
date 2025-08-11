@@ -1,0 +1,254 @@
+name: pikani
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  # dependency injection and service locator
+  get_it: ^8.0.3
+  # state management and Architecture
+  flutter_bloc: ^9.1.0
+
+  intl: ^0.19.0
+
+  # for shimmer effect
+  skeletonizer: ^2.1.0+1
+
+  google_fonts: ^6.2.1
+  equatable: ^2.0.7
+  cached_network_image: ^3.4.1
+
+  url_launcher: ^6.3.1
+
+  # for HTTP requests like REST-APIs
+  dio: ^5.8.0+1
+  cookie_jar: ^4.0.8
+  dio_cookie_manager: ^3.2.0
+  pretty_dio_logger: ^1.4.0
+  path: ^1.9.1
+  mime: ^2.0.0
+  http_parser: ^4.1.2
+
+
+  #handling permission in flutter
+  permission_handler: ^12.0.0+1
+
+  #handling SVG assets
+  flutter_svg: ^2.1.0
+  flutter_svg_provider: ^1.0.7
+
+  # for screen navigation and routing
+  go_router: ^15.0.0
+  url_strategy: ^0.3.0
+
+  lottie: ^3.3.1
+  audioplayers: ^6.4.0
+  video_player: ^2.9.5
+
+  flutter_flip_card: ^0.0.6
+
+
+
+
+
+
+
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+  device_info_plus: ^11.4.0
+  file_saver: ^0.2.14
+  flutter_local_notifications: ^19.0.0
+  open_file: ^3.5.10
+  scrollable_positioned_list: ^0.3.8
+
+  path_provider: any
+  flutter_staggered_animations: ^1.1.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.14.3"
+  
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/app_icon.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^5.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/animations/
+    - assets/videos/short_phrases/
+    - assets/videos/sign_language_categories/animals/
+    - assets/videos/sign_language_categories/food_and_drinks/
+    - assets/videos/sign_language_categories/places_in_alberta/
+    - assets/videos/ai_photos/
+    - assets/jsons/
+    - assets/icons/
+    - assets/images/
+    - assets/images/symbols/
+    - assets/images/ai_photos/
+    - assets/images/stories/
+    - assets/images/stories/naapi_bullberries/audios/
+    - assets/images/stories/naapi_bullberries/images/
+    - assets/images/stories/naapi_rock/audios/
+    - assets/images/stories/naapi_rock/images/
+    - assets/audio/
+    - assets/vcabassets/
+
+    - assets/vcabassets/Actions/
+    - assets/vcabassets/Actions/Actions/
+    - assets/vcabassets/BlackfootNamesofArea/
+    - assets/vcabassets/BlackfootNamesofArea/BlackfootNamesofArea/
+    - assets/vcabassets/Chores/
+    - assets/vcabassets/Chores/Chores/
+    - assets/vcabassets/PiikaniNames/
+    - assets/vcabassets/PiikaniNames/PiikaniNames/
+    - assets/vcabassets/PiikaniValues/
+    - assets/vcabassets/PiikaniValues/PiikaniValues/
+    - assets/vcabassets/Neighbours/
+    - assets/vcabassets/Neighbours/Neighbours/
+    - assets/vcabassets/Plants_Medicine/ 
+    - assets/vcabassets/Plants_Medicine/Plants/
+    - assets/vcabassets/Clothes_Jewellery/
+    - assets/vcabassets/Clothes_Jewellery/Clothes/
+    - assets/vcabassets/Plants_Medicine/webp/
+
+    - assets/vcabassets/Sentences/
+    - assets/vcabassets/Sentences/Audio/Section 1/
+    - assets/vcabassets/Sentences/Audio/Section 2/
+    - assets/vcabassets/Sentences/Audio/Section 3/
+    - assets/vcabassets/Sentences/Audio/Section 4/
+    - assets/vcabassets/Sentences/Audio/Section 5/
+    - assets/vcabassets/Sentences/Audio/Section 6/
+    - assets/vcabassets/Sentences/Audio/Section 7/
+    - assets/vcabassets/Sentences/Audio/Section 8/
+
+    - assets/vcabassets/Places in Alberta/
+    - assets/vcabassets/Places in Alberta/
+    - assets/vcabassets/Places in Alberta/webp/
+    - assets/vcabassets/Places in Alberta/Places Audio/
+
+    - assets/vcabassets/My Family/
+    - assets/vcabassets/My Family/My Family/
+
+    - assets/vcabassets/Greetings/
+    - assets/vcabassets/Greetings/Greetings Audio 1-17/
+    - assets/vcabassets/Greetings/Greetings Audio 18-28/
+
+    - assets/vcabassets/ Commands/
+    - assets/vcabassets/ Commands/Commands Audio/
+
+    - assets/vcabassets/Piikani Clans/
+    - assets/vcabassets/Piikani Clans/Piikani Clans/
+
+    - assets/vcabassets/Food & Drinks/
+    - assets/vcabassets/Food & Drinks/Audio/
+    - assets/vcabassets/Food & Drinks/webp/
+
+    - assets/vcabassets/Numbers/
+    - assets/vcabassets/Numbers/Numbers Audio/
+
+    - assets/vcabassets/Months & Dates/
+    - assets/vcabassets/Months & Dates/Audio Months/
+
+    - assets/vcabassets/Colors/
+    - assets/vcabassets/Colors/Audio Colors/
+
+    - assets/vcabassets/Animals/
+    - assets/vcabassets/Animals/webp/
+    - assets/vcabassets/Animals/Audio Animals/
+
+    - assets/vcabassets/Directions/
+    - assets/vcabassets/Directions/Audio Directions/
+
+    - assets/vcabassets/Clothes_Jewellery/Audio 8-28/
+
+
+
+
+
+
+
+
+
+
+
+
+
+  #   - images/a_dot_ham.jpeg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/to/resolution-aware-images
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/to/asset-from-package
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+     - family: Gloucester
+       fonts:
+         - asset: assets/fonts/gloucester-mt-extra-condensed.ttf
+
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-package

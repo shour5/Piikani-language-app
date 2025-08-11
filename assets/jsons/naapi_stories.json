@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1,
+    "title": "Naapi & Rock",
+    "image": "assets/images/stories/nappi_rock.png",
+    "audiosPath": "assets/images/stories/naapi_rock/audios/Story_",
+    "imagesPath": "assets/images/stories/naapi_rock/images/",
+    "stories": [
+      {
+        "english": "Naapi and The Rock",
+        "pikani": "Naapiwa Kii Oohkotoka.",
+        "phonics": "NAA BEE WA-GEE-OOH-GOO-TOO-KAA",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "Naapi and his friend the Fox were traveling about one very warm day.",
+        "pikani": "Naapiwa kii otakkaayi Sinopaa ihta'pawaawahkaawa, ssksiksistoyi.",
+        "phonics": "NAA BEE WA - GEE OTUK GUY EE - SEE NOO BAA - EEH TAA BAA WAAH GAAYA, - SS KAG KSESS TOO YEE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "They stopped to rest on a large rock.",
+        "pikani": "Itsitot'ssikopiiwa amiyayi oohkotoki.",
+        "phonics": "EE TSET TOOT SEE GOO BEE WAA -UMM MEE YAA YEE – OOH GOO TOO GEE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "Naapi was very warm with his robe on.",
+        "pikani": "Naapi sskaasaikinnssi ami maaai ooksinatsiwa.",
+        "phonics": "NAA BEE WA – SSKAA SAA KEN NSS SEE – AMEE – MAA EYEE -OO KSEN NAA TSEE WA",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "Naapi pitied the rock and gave him his robe so the rock can be protected from the weather.",
+        "pikani": "Naapi atsikimmi ami oohkotoki kii ohkotsiwa ami maayi.",
+        "phonics": "NAA BEE WA – UTT TSEE KIM MEE – AMEE – OOH GOO TOO GEE – GEE – OO GOOT TSEE WAA- UMEE- MAA EYEE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "Naapi and the Fox continued on.",
+        "pikani": "Naapiwa kii Sinopaawa mattsitomatapooyaawa.",
+        "phonics": "NAA BEE WA – GEE – SEE NOO BAA WAA- MUTT TSEE TOO MAA TAA BOO YAA WAA",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "Soon the rain began to fall on them.",
+        "pikani": "Itomatapssootawa.",
+        "phonics": "EE TOO MUTT TAAPS SOO TAA WA",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "Naapi was getting cold and missed his robe. He told the Fox go back the rock and ask him if I could borrow my robe till the rain is over.",
+        "pikani": "Naapiwa itomattapi'niipitsiwa kii ikoo'kimiwa maayi. Anistssiiwa ami Sinopaawa, \"Iisskoto'toosa naaiwa\"",
+        "phonics": "NAA BEE WA – EE TOO MUTT TAA BEE KNEE PIT TSEE – GEE – EE GOO KIM ME WAA- MAA EYEE) (AA NESS TSEE WA – SEE NOO BAA WA – \"IS SKOO TOO TOOS – NAA EE WA",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "The Fox ran back to the rock.",
+        "pikani": "Sinopaawa itsskitapoowa ami oohkotoki.",
+        "phonics": "SEE NOO BAA WA -IT SSK KET BOO WAA – AMEE – OOH KOO TOO KEE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "Ask him that Naapiwa would like to borrow his robe.",
+        "pikani": "Aanistsiiwayi Naapiwa aakipahkoma'tsiwa maayi.",
+        "phonics": "AA NESS TSEE WA YE – NAA BEE WA – AA KEP AH KOO MAA TSEE WA – MAA YEE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "The rock refused to give Naapi his robe back.",
+        "pikani": "Ki oohkotoki omaatsskohkokkaatsik mii maayi.",
+        "phonics": "KEE - OOH KOO TOO KEE – OO MAAT SSKO OOH KOO KAA TSA TSEK – MEE – MAA YEE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "Naapi got angry and went back to the rock,",
+        "pikani": "Naapi itoki'takiwa ki itsskitapoowa mi oohtotoki,",
+        "phonics": "NAA BEE WA – EE TOO KEY TAA KEY WA – GEE – ITT SSKE TAA BOO WA ME OOH KOO KEE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "\"Give me my robe! You don't need a robe. He grabbed his robe off the rock.",
+        "pikani": "Sskokokit naanyi! O'kaasatsiwa maayi.",
+        "phonics": "SS GOO KIT – NAA YEE – OO GAA SAA TSEE WA – MAA – YEE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "Then he and the Fox went on.",
+        "pikani": "Ki matsitoomatapooyiwa.",
+        "phonics": "GEE MAAT TSEE TOO MAT TAA BOO YE WAA",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "Soon the ground began to rumble.",
+        "pikani": "Maatsisamoowa ksaakomma awawatopi.",
+        "phonics": "MAA TSEE SUM MOO WA – KSAA KOM MA – AA WAA WAT OO BEE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "The rock was chasing them.",
+        "pikani": "Ama oohkotoka akaksissaisskoyiiwaiski.",
+        "phonics": "AA MAA – OOH GOO TOO KAA – AA KAA KSEE SSAESS GOO YEE WAXS",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "They began to run.",
+        "pikani": "Ki itotsimotaayaawa.",
+        "phonics": "GEE EE TOO TSIM MOO TAA YAA WA",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "The Fox climbed in a hole.",
+        "pikani": "Ama Sinopaawa sotamitssapohpawaniwa miyayi awatsimaana.",
+        "phonics": "AAMA- SEE NOO BAA WA – SOO TAA MET SSAP OOH BAA WAA KNEE WA – MEE YAA YEE – AA WAA TSEE MAAN NA",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "Naapi ran faster, but the rock was gaining on him.",
+        "pikani": "Naapiwa iiksskao'kska'siwa ki mi oohtotoki otaohtaitsiikkayi.",
+        "phonics": "NAA BEE WA – EEK SS KAOK SKA SEE WA – GEE MEE OOH KOO TOO KEE – OOT TAOH TSEK GAA YEE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "Soon, Naapiwa seen the common night hawks flying around.",
+        "pikani": "Taamskookitsinnoyiwa amiksi Piitoiksi iitapawawaniiyiwa.",
+        "phonics": "DAAM SSKOO KEE TSEN NOO YEE WA – UM MEET SEE - BIT TOO KSES – EE TAA BAA WAA WAA KNEE YEE WA",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "\"Oh, my brother's\" yelled Naapi, \"Help me\"",
+        "pikani": "\"Aayo! Nisskaniksi noohksspommookika\"",
+        "phonics": "EE YOO – NESS GUN NEKSE – NOOH KSS BOOM MOO KEE KAA",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "The common night hawk heard Naapi and came to his rescue.",
+        "pikani": "Miksi Pisttoiksi iiyoohtoyiiwa Naapi otsitssmommokaiksi",
+        "phonics": "MEEK SEE BIT TOO KSEE – EE YOOH TOO YEE WA – NAA BEE WA - OUTSET SS BOOM MOO KAA KSE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "They swooped down on the rock and pecked at the rock.",
+        "pikani": "Miiksi Pisttoiksi itaikkawatsiiyaawa ami oohkotoki.",
+        "phonics": "MEEK SEE BIT TOO KSES – EE TAAK KAA WAA TSEE YAA WA – AMEE – OOH KOO TOO KEE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "Finally, the rock broke into many pieces and was scattered all over.",
+        "pikani": "Sotamohkanawaaniitohpattsistowawa ami oohkotok.",
+        "phonics": "SOO TAAM OOH KAA NAA WAA NEET OOH PAAT TSEE TOO WAA WA – AMEE – OOH KOO TOO KA",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "That is why today we see the remains of the rock scattered over the prairies.",
+        "pikani": "Annohk itsita'paohkoiskiaawa oohkotoka soakioohtsi.",
+        "phonics": "AA NOOHK – ITSE TAA BAA OH GOO SKEE AA WAA – OOH KOO TOO GA – SOOKA CUE WAAH TSEE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "The End!",
+        "pikani": "Kiannyi",
+        "phonics": "GANN NAA YEE",
+        "image": "",
+        "audio": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Naapi & The Bull Berries",
+    "image": "assets/images/stories/naapi_bullberries.png",
+    "audiosPath": "assets/images/stories/naapi_bullberries/audios/Naapi ",
+    "imagesPath": "assets/images/stories/naapi_bullberries/images/",
+    "stories": [
+      {
+        "english": "Naapi and The Bullberries",
+        "pikani": "Naapiwa Kii Mi'ksinittsiimisti",
+        "phonics": "NAA BEE WA-GEE - MEEK-SIN-NET-TSEE-MESTS",
+        "image": "",
+        "audio": ""
+
+      },
+      {
+        "english": "Naapi was walking around. It was very hot.",
+        "pikani": "Náápiwa Itapoowaawahkaawa Iiksíksistoyiwa",
+        "phonics": "NAABEE EE-DA-BA-WA-WAH-GA EEK-SEEK-SIS-DOY-EE",
+        "image": "",
+        "audio": ""
+
+      },
+
+      {
+        "english": "He arrived at the shore of the river.",
+        "pikani": "Áí'to'towa iihk Niítahtaayi Iisóo'tstsiiwa",
+        "phonics": "AA-DO-DO-YIHK NEE-EE-TAH-DIE-EE IS-SOO-WOH-TSI",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "He sat down as he was looking into the water",
+        "pikani": "Ataopiiwa Asoyáapaissapiwa",
+        "phonics": "AA-DOOP-BEE-WA A-SOY-A-BES-SA-BEW",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "He seen the bull berries",
+        "pikani": "Itssoyiinim Amiksi Mi'ksiníttsiimiksi",
+        "phonics": "IT-SOY-EE-NIM MEEK-SEE MEEK-SEE-NIT-SEE-MEEKS",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "They were red",
+        "pikani": "Ni'taómaohksinaamma",
+        "phonics": "NEE-DOM-OK-SIN-AM-YA",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "Naapi said, \"If only I can eat some.\"",
+        "pikani": "Náápiwawaaniwa Kamo'ksoyiipi",
+        "phonics": "NAABEE-WA-WA-NEE KA-MOH-SOY-EE-BEE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "He undressed and he dove into the water",
+        "pikani": "Asóominiwa Ki Asoyittayi",
+        "phonics": "A-SOO-MIN-EE GEE AT-SOY-IT-DIE-EE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "He was feeling around in the water",
+        "pikani": "Kitssoyáapaisso'takiwa",
+        "phonics": "GEET-SOY-A-BES-DA-GEE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "He was unable to find them",
+        "pikani": "Máátsiikakohkoinímayi",
+        "phonics": "MAT-SEE-GA-GAH-GON-EE-MOW",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "He was almost drowning",
+        "pikani": "Áí'tamaaksiiniitsiwa",
+        "phonics": "A-DAM-AK-SIN-EE-TSEW",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "As he recovered. He was thinking",
+        "pikani": "Asopówatopiiwa Aiksimsstaawa",
+        "phonics": "A-SO-BOW-A-DOW-BEW A-KSIM-STOW",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "I will weigh myself down",
+        "pikani": "Kamssokááhkiosit",
+        "phonics": "GAM-SO-GAH-GE-O-SIT",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "He Picked Rocks",
+        "pikani": "O'tsimóóhkotokistsi",
+        "phonics": "OO-TSIM-OH-GO-DOH-GEES",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "He Tied the rocks on his hands, his feet, and waist.",
+        "pikani": "Ayayissksipima O'tsístsi ki ohkátsistsi ki óópaihpi",
+        "phonics": "I-YA-YISK-SEE-BIM OO-TSEES-TS GEE OO-GUT-SEES-TS GEE OO-BAYH-BEE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "He dove into the water.",
+        "pikani": "Ki Asoyittayíwa",
+        "phonics": "AA-SOY-IT-DIE-EE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "To where he seen the bull-berries",
+        "pikani": "Ami Otsiitsiinipii amiksi mi'ksiníttsiimiksi",
+        "phonics": "AM-EE OOT-SIT-SEE-NEE-BEE AM-EEKS-SEE MEEK-SEE-NIT-SEE-MEEKS",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "He could not find them and he was almost drowning",
+        "pikani": "Máátsiikakohkoinímayi ki Áí'tamaaksiiniitsiwa",
+        "phonics": "MAAT-SEE-GA-GAH-GO-NE-MOW GEE A-DAM-AK-SIN-EE-TSEW",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "He crawled out of the water, he laid on his back. As he looked up…",
+        "pikani": "Opitsiskapiwa Á'kíkaihtsiwa Maanistsspa'psspiiwa",
+        "phonics": "OO-BIT-SIS-GAP-EW AA-GEE-GAYH-TSEW MAN-IS-TSP-SAPS-BEE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "There were the bull-berries, on the cliff",
+        "pikani": "Ánnimo'ki miiksi mi'ksiníttsiimiksi ami ááksi'ksaahkoyi",
+        "phonics": "ANNA-MOK-EE MEEK-SEE MEEK-SEE-NIT-SEE-MEEKS AM-EE AK-SEEK-SAH-GO",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "As he was going to pick some berries, he was pricked by the needles.",
+        "pikani": "Maanistáakoy'ssiwa Itáakkstsíniwa",
+        "phonics": "MAN-IS-DA-GOY-SEE EE-DEKS-TSIN-NOW",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "Naapi was mad. He grabbed a willow stick.",
+        "pikani": "Á'tóóki'takiwa Náápiwa O'kaasiwa íísiiksiwa",
+        "phonics": "A-DOK-GE-DAK-EW NAABEE O-GA-S-EW IS-SIK-SEE",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "He was hitting the bull-berries with the willow stick.",
+        "pikani": "Iyáásoi'stsípikiwa amiksi mi'ksiníttsiimiksi",
+        "phonics": "I-YA-SOYS-TSEE-BICK-YEW A-MEEK-SEE MEEK-SEE-NIT-SEE-MEEKS",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "He told them, \"In the future, you will be thrashed to be picked.\"",
+        "pikani": "Áánistsiiwaiksi Íssoohtsiki Kitáákasoi'stsípikiootspowaoowa",
+        "phonics": "A-NIST-SEE-WAY-KS IS-SOH-TSIK GE-TAK-A-SOYS-TSEE-BI-GE-OT-SPO-WOW",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "english": "And that is all.",
+        "pikani": "Kiánniayi",
+        "phonics": "GANN NAA YEE",
+        "image": "",
+        "audio": ""
+      }
+    ]
+  }
+]

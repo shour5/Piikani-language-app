@@ -1,0 +1,3 @@
+The vocab in greetings is combined audio from the 2017 and 2019 apps.  I combined them in the Greetings text.doc and have the audio labelled in 2 folders.  
+
+Please place in the same order as the word document.  
